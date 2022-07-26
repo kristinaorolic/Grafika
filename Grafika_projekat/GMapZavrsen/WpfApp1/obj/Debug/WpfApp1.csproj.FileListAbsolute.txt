@@ -1,0 +1,115 @@
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\App.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\WpfApp1.exe
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\GMap.NET.Core.dll
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\GMap.NET.Core.xml
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\MainWindow.baml
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1.exe
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapPocetak\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.exe
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.Core.dll
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.Core.xml
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\App.g.cs
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\MainWindow.baml
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.exe
+D:\!FTN\!RG VEZBE\2019-2020\UVOD\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\App.g.cs
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.exe
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.Core.dll
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.Core.xml
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\MainWindow.baml
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.exe
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\ElipseDrawing.g.cs
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\ElipseDrawing.baml
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\PolygonDrawing.g.cs
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\TextDrawing.g.cs
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\PolygonDrawing.baml
+D:\FAKULTET\GODINA 4\GRAFIKA\projekat 1\GMapZavrsen\WpfApp1\obj\Debug\TextDrawing.baml
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.Core.xml
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\ElipseDrawing.g.cs
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\PolygonDrawing.g.cs
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\TextDrawing.g.cs
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\App.g.cs
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\ElipseDrawing.baml
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\PolygonDrawing.baml
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\TextDrawing.baml
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\krist\Desktop\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.Core.dll
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.Core.xml
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\ElipseDrawing.g.cs
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\PolygonDrawing.g.cs
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\TextDrawing.g.cs
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\App.g.cs
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\ElipseDrawing.baml
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\PolygonDrawing.baml
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\TextDrawing.baml
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\krist\Desktop\Grafika_projekat\GMapZavrsen\WpfApp1\obj\Debug\WpfApp1.pdb
